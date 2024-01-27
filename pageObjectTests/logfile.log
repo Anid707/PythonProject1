@@ -1,0 +1,205 @@
+2024-01-25 01:46:39,796:INFO:test_main_page:------------------------------------
+2024-01-25 01:46:39,796:INFO:test_main_page:Test has started!
+2024-01-25 01:46:39,797:INFO:test_main_page:Opening Main page!
+2024-01-25 01:46:51,167:INFO:test_main_page:Entering the form data!
+2024-01-25 01:47:26,864:INFO:test_main_page:Form data is submitted!
+2024-01-25 01:48:22,667:INFO:test_main_page:Test has finished!
+2024-01-25 01:51:40,833:INFO:test_main_page:------------------------------------
+2024-01-25 01:51:40,833:INFO:test_main_page:Test has started!
+2024-01-25 01:51:40,834:INFO:test_main_page:Opening Main page!
+2024-01-25 01:51:52,928:INFO:test_main_page:Entering the form data!
+2024-01-25 01:52:28,843:INFO:test_main_page:Form data is submitted!
+2024-01-25 01:53:24,511:INFO:test_main_page:Test has finished!
+2024-01-25 01:59:12,232:INFO:test_main_page:------------------------------------
+2024-01-25 01:59:12,232:INFO:test_main_page:Test has started!
+2024-01-25 01:59:12,233:INFO:test_main_page:Opening Main page!
+2024-01-25 01:59:23,878:INFO:test_main_page:Entering the form data!
+2024-01-25 01:59:59,965:INFO:test_main_page:Form data is submitted!
+2024-01-25 02:00:55,671:INFO:test_main_page:Test has finished!
+2024-01-25 02:02:25,829:INFO:test_main_page:------------------------------------
+2024-01-25 02:02:25,829:INFO:test_main_page:Test has started!
+2024-01-25 02:02:25,831:INFO:test_main_page:Opening Main page!
+2024-01-25 02:02:38,117:INFO:test_main_page:Entering the form data!
+2024-01-25 02:03:13,807:INFO:test_main_page:Form data is submitted!
+2024-01-25 02:03:52,303:INFO:test_main_page:Test has finished!
+2024-01-25 02:08:03,049:INFO:test_main_page:------------------------------------
+2024-01-25 02:08:03,049:INFO:test_main_page:Test has started!
+2024-01-25 02:08:03,051:INFO:test_main_page:Opening Main page!
+2024-01-25 02:08:15,409:INFO:test_main_page:Entering the form data!
+2024-01-25 02:08:50,940:INFO:test_main_page:Form data is submitted!
+2024-01-25 02:09:29,360:INFO:test_main_page:Test has finished!
+2024-01-25 02:16:49,453:INFO:test_main_page:------------------------------------
+2024-01-25 02:16:49,453:INFO:test_main_page:Test has started!
+2024-01-25 02:16:49,454:INFO:test_main_page:Opening Main page!
+2024-01-25 02:17:01,704:INFO:test_main_page:Entering the form data!
+2024-01-25 02:17:47,498:INFO:test_main_page:Form data is submitted!
+2024-01-25 02:18:26,043:INFO:test_main_page:Test has finished!
+2024-01-25 02:20:16,240:INFO:test_main_page:------------------------------------
+2024-01-25 02:20:16,240:INFO:test_main_page:Test has started!
+2024-01-25 02:20:16,242:INFO:test_main_page:Opening Main page!
+2024-01-25 02:20:26,766:INFO:test_main_page:Entering the form data!
+2024-01-25 02:21:12,952:INFO:test_main_page:Form data is submitted!
+2024-01-25 02:21:51,731:INFO:test_main_page:Test has finished!
+2024-01-25 02:32:08,357:INFO:test_main_page:------------------------------------
+2024-01-25 02:32:08,359:INFO:test_main_page:Test has started!
+2024-01-25 02:32:08,360:INFO:test_main_page:Opening Main page!
+2024-01-25 02:32:19,911:INFO:test_main_page:Entering the form data!
+2024-01-25 02:33:05,686:INFO:test_main_page:Form data is submitted!
+2024-01-25 02:33:41,300:INFO:test_main_page:Test has finished!
+2024-01-25 02:49:25,616:INFO:test_main_page:------------------------------------
+2024-01-25 02:49:25,617:INFO:test_main_page:Test has started!
+2024-01-25 02:49:25,617:INFO:test_main_page:Opening Main page!
+2024-01-25 02:49:37,997:INFO:test_main_page:Entering the form data!
+2024-01-25 02:50:13,652:INFO:test_main_page:Form data is submitted!
+2024-01-25 02:50:49,424:INFO:test_main_page:Test has finished!
+2024-01-26 02:16:48,593:INFO:test_main_page:------------------------------------
+2024-01-26 02:16:48,594:INFO:test_main_page:Test has started!
+2024-01-26 02:16:48,595:INFO:test_main_page:Opening Main page!
+2024-01-26 02:17:00,377:INFO:test_main_page:Entering the form data!
+2024-01-26 02:17:47,016:INFO:test_main_page:Test has finished!
+2024-01-26 02:21:59,499:INFO:test_main_page:------------------------------------
+2024-01-26 02:21:59,499:INFO:test_main_page:Test has started!
+2024-01-26 02:21:59,500:INFO:test_main_page:Opening Main page!
+2024-01-26 02:22:10,802:INFO:test_main_page:Entering the form data!
+2024-01-26 02:22:46,826:INFO:test_main_page:Form data is submitted!
+2024-01-26 02:22:47,008:INFO:test_main_page:Search result page is opened!
+2024-01-26 02:22:57,011:INFO:test_main_page:Test has finished!
+2024-01-26 02:27:44,227:INFO:test_main_page:------------------------------------
+2024-01-26 02:27:44,227:INFO:test_main_page:Test has started!
+2024-01-26 02:27:44,228:INFO:test_main_page:Opening Main page!
+2024-01-26 02:27:56,002:INFO:test_main_page:Entering the form data!
+2024-01-26 02:28:32,110:INFO:test_main_page:Form data is submitted!
+2024-01-26 02:28:48,456:INFO:test_main_page:Test has finished!
+2024-01-26 02:29:52,560:INFO:test_main_page:------------------------------------
+2024-01-26 02:29:52,560:INFO:test_main_page:Test has started!
+2024-01-26 02:29:52,561:INFO:test_main_page:Opening Main page!
+2024-01-26 02:30:03,866:INFO:test_main_page:Entering the form data!
+2024-01-26 02:30:39,797:INFO:test_main_page:Form data is submitted!
+2024-01-26 02:30:46,390:INFO:test_main_page:Search result page is opened! Astana
+2024-01-26 02:30:56,393:INFO:test_main_page:Test has finished!
+2024-01-26 03:03:35,826:INFO:test_main_page:------------------------------------
+2024-01-26 03:03:35,827:INFO:test_main_page:Test has started!
+2024-01-26 03:03:35,828:INFO:test_main_page:Opening Main page!
+2024-01-26 03:03:48,180:INFO:test_main_page:Entering the form data!
+2024-01-26 03:04:24,282:INFO:test_main_page:Form data is submitted!
+2024-01-26 03:04:31,308:INFO:test_main_page:Search result page is opened! Astana
+2024-01-26 03:04:41,311:INFO:test_main_page:Test has finished!
+2024-01-27 13:11:27,169:INFO:test_main_page:------------------------------------
+2024-01-27 13:11:27,170:INFO:test_main_page:Test has started!
+2024-01-27 13:11:27,171:INFO:test_main_page:Opening Main page!
+2024-01-27 13:11:39,886:INFO:test_main_page:Entering the form data!
+2024-01-27 13:12:16,191:INFO:test_main_page:Form data is submitted!
+2024-01-27 13:12:23,335:INFO:test_main_page:Search result page is opened! Astana
+2024-01-27 13:12:35,739:INFO:test_main_page:Test has finished!
+2024-01-27 13:15:07,670:INFO:test_main_page:------------------------------------
+2024-01-27 13:15:07,670:INFO:test_main_page:Test has started!
+2024-01-27 13:15:07,671:INFO:test_main_page:Opening Main page!
+2024-01-27 13:15:19,611:INFO:test_main_page:Entering the form data!
+2024-01-27 13:15:55,753:INFO:test_main_page:Form data is submitted!
+2024-01-27 13:16:02,643:INFO:test_main_page:Search result page is opened! Astana
+2024-01-27 13:16:15,046:INFO:test_main_page:Test has finished!
+2024-01-27 13:16:32,670:INFO:test_main_page:------------------------------------
+2024-01-27 13:16:32,670:INFO:test_main_page:Test has started!
+2024-01-27 13:16:32,671:INFO:test_main_page:Opening Main page!
+2024-01-27 13:16:47,253:INFO:test_main_page:Entering the form data!
+2024-01-27 13:17:31,858:INFO:test_main_page:Test has finished!
+2024-01-27 13:18:47,122:INFO:test_main_page:------------------------------------
+2024-01-27 13:18:47,122:INFO:test_main_page:Test has started!
+2024-01-27 13:18:47,123:INFO:test_main_page:Opening Main page!
+2024-01-27 13:18:59,952:INFO:test_main_page:Entering the form data!
+2024-01-27 13:19:36,175:INFO:test_main_page:Form data is submitted!
+2024-01-27 13:19:42,835:INFO:test_main_page:Search result page is opened! Astana
+2024-01-27 13:19:55,271:INFO:test_main_page:Test has finished!
+2024-01-27 13:20:04,973:INFO:test_main_page:------------------------------------
+2024-01-27 13:20:04,975:INFO:test_main_page:Test has started!
+2024-01-27 13:20:04,976:INFO:test_main_page:Opening Main page!
+2024-01-27 13:20:17,125:INFO:test_main_page:Entering the form data!
+2024-01-27 13:21:01,443:INFO:test_main_page:Test has finished!
+2024-01-27 13:27:00,068:INFO:test_main_page:------------------------------------
+2024-01-27 13:27:00,068:INFO:test_main_page:Test has started!
+2024-01-27 13:27:00,069:INFO:test_main_page:Opening Main page!
+2024-01-27 13:27:12,583:INFO:test_main_page:Entering the form data!
+2024-01-27 13:27:49,204:INFO:test_main_page:Form data is submitted!
+2024-01-27 13:27:56,484:INFO:test_main_page:Search result page is opened! Astana
+2024-01-27 13:28:08,958:INFO:test_main_page:Test has finished!
+2024-01-27 13:28:30,690:INFO:test_main_page:------------------------------------
+2024-01-27 13:28:30,691:INFO:test_main_page:Test has started!
+2024-01-27 13:28:30,693:INFO:test_main_page:Opening Main page!
+2024-01-27 13:28:42,537:INFO:test_main_page:Entering the form data!
+2024-01-27 13:29:26,938:INFO:test_main_page:Test has finished!
+2024-01-27 13:31:12,282:INFO:test_main_page:------------------------------------
+2024-01-27 13:31:12,282:INFO:test_main_page:Test has started!
+2024-01-27 13:31:12,283:INFO:test_main_page:Opening Main page!
+2024-01-27 13:31:29,515:INFO:test_main_page:Entering the form data!
+2024-01-27 13:32:06,073:INFO:test_main_page:Form data is submitted!
+2024-01-27 13:32:14,562:INFO:test_main_page:Search result page is opened! Astana
+2024-01-27 13:32:27,026:INFO:test_main_page:Test has finished!
+2024-01-27 13:32:42,051:INFO:test_main_page:------------------------------------
+2024-01-27 13:32:42,051:INFO:test_main_page:Test has started!
+2024-01-27 13:32:42,054:INFO:test_main_page:Opening Main page!
+2024-01-27 13:32:55,929:INFO:test_main_page:Entering the form data!
+2024-01-27 13:33:32,961:INFO:test_main_page:Form data is submitted!
+2024-01-27 13:33:51,602:INFO:test_main_page:Test has finished!
+2024-01-27 13:35:21,432:INFO:test_main_page:------------------------------------
+2024-01-27 13:35:21,432:INFO:test_main_page:Test has started!
+2024-01-27 13:35:21,433:INFO:test_main_page:Opening Main page!
+2024-01-27 13:35:38,643:INFO:test_main_page:Entering the form data!
+2024-01-27 13:36:15,135:INFO:test_main_page:Form data is submitted!
+2024-01-27 13:36:33,489:INFO:test_main_page:Test has finished!
+2024-01-27 13:36:43,406:INFO:test_main_page:------------------------------------
+2024-01-27 13:36:43,406:INFO:test_main_page:Test has started!
+2024-01-27 13:36:43,407:INFO:test_main_page:Opening Main page!
+2024-01-27 13:36:59,064:INFO:test_main_page:Entering the form data!
+2024-01-27 13:37:35,071:INFO:test_main_page:Form data is submitted!
+2024-01-27 13:37:57,785:INFO:test_main_page:Test has finished!
+2024-01-27 13:40:02,472:INFO:test_main_page:------------------------------------
+2024-01-27 13:40:02,473:INFO:test_main_page:Test has started!
+2024-01-27 13:40:02,474:INFO:test_main_page:Opening Main page!
+2024-01-27 13:40:19,706:INFO:test_main_page:Entering the form data!
+2024-01-27 13:40:56,342:INFO:test_main_page:Form data is submitted!
+2024-01-27 13:41:03,532:INFO:test_main_page:Search result page is opened! Astana
+2024-01-27 13:41:15,978:INFO:test_main_page:Test has finished!
+2024-01-27 13:41:30,878:INFO:test_main_page:------------------------------------
+2024-01-27 13:41:30,880:INFO:test_main_page:Test has started!
+2024-01-27 13:41:30,881:INFO:test_main_page:Opening Main page!
+2024-01-27 13:41:48,474:INFO:test_main_page:Entering the form data!
+2024-01-27 13:42:32,893:INFO:test_main_page:Test has finished!
+2024-01-27 13:42:58,025:INFO:test_main_page:------------------------------------
+2024-01-27 13:42:58,025:INFO:test_main_page:Test has started!
+2024-01-27 13:42:58,026:INFO:test_main_page:Opening Main page!
+2024-01-27 13:43:13,012:INFO:test_main_page:Entering the form data!
+2024-01-27 13:43:49,228:INFO:test_main_page:Form data is submitted!
+2024-01-27 13:43:56,689:INFO:test_main_page:Search result page is opened! Astana
+2024-01-27 13:44:09,152:INFO:test_main_page:Test has finished!
+2024-01-27 13:44:34,346:INFO:test_main_page:------------------------------------
+2024-01-27 13:44:34,346:INFO:test_main_page:Test has started!
+2024-01-27 13:44:34,348:INFO:test_main_page:Opening Main page!
+2024-01-27 13:44:49,885:INFO:test_main_page:Entering the form data!
+2024-01-27 13:45:34,559:INFO:test_main_page:Test has finished!
+2024-01-27 13:46:28,794:INFO:test_main_page:------------------------------------
+2024-01-27 13:46:28,794:INFO:test_main_page:Test has started!
+2024-01-27 13:46:28,795:INFO:test_main_page:Opening Main page!
+2024-01-27 13:46:44,536:INFO:test_main_page:Entering the form data!
+2024-01-27 13:47:20,945:INFO:test_main_page:Form data is submitted!
+2024-01-27 13:47:28,146:INFO:test_main_page:Search result page is opened! Astana
+2024-01-27 13:47:40,736:INFO:test_main_page:Test has finished!
+2024-01-27 13:47:50,643:INFO:test_main_page:------------------------------------
+2024-01-27 13:47:50,643:INFO:test_main_page:Test has started!
+2024-01-27 13:47:50,645:INFO:test_main_page:Opening Main page!
+2024-01-27 13:48:04,436:INFO:test_main_page:Entering the form data!
+2024-01-27 13:48:41,155:INFO:test_main_page:Form data is submitted!
+2024-01-27 13:49:00,593:INFO:test_main_page:Test has finished!
+2024-01-27 13:49:54,912:INFO:test_main_page:------------------------------------
+2024-01-27 13:49:54,912:INFO:test_main_page:Test has started!
+2024-01-27 13:49:54,912:INFO:test_main_page:Opening Main page!
+2024-01-27 13:50:12,590:INFO:test_main_page:Entering the form data!
+2024-01-27 13:50:49,359:INFO:test_main_page:Form data is submitted!
+2024-01-27 13:50:56,455:INFO:test_main_page:Search result page is opened! Astana
+2024-01-27 13:51:08,898:INFO:test_main_page:Test has finished!
+2024-01-27 13:51:18,691:INFO:test_main_page:------------------------------------
+2024-01-27 13:51:18,691:INFO:test_main_page:Test has started!
+2024-01-27 13:51:18,695:INFO:test_main_page:Opening Main page!
+2024-01-27 13:51:38,649:INFO:test_main_page:Entering the form data!
+2024-01-27 13:52:15,217:INFO:test_main_page:Form data is submitted!
+2024-01-27 13:52:22,596:INFO:test_main_page:Search result page is opened! Istanbul
+2024-01-27 13:52:35,060:INFO:test_main_page:Test has finished!
