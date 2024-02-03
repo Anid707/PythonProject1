@@ -44,7 +44,7 @@ class TestMainPage:
         self.logger.info("Main page is opened!")
 
     #@pytest.mark.test_group
-    @pytest.mark.parametrize("from_city, to_city, start_date, end_date", [("Astana", "Almaty", "01.02.2024", "07.02.2024"),("Istanbul", "Dubai", "05.02.2024", "10.02.2024")])
+    @pytest.mark.parametrize("from_city, to_city, start_date, end_date", [("Astana", "Almaty", "20.02.2024", "27.02.2024"),("Istanbul", "Dubai", "22.02.2024", "28.02.2024")])
     def test_open_search_flight_page(self, test_setup, from_city, to_city, start_date, end_date):
         self.logger.info("Opening Main page!")
         main_page = MainPage(driver)

@@ -203,3 +203,16 @@
 2024-01-27 13:52:15,217:INFO:test_main_page:Form data is submitted!
 2024-01-27 13:52:22,596:INFO:test_main_page:Search result page is opened! Istanbul
 2024-01-27 13:52:35,060:INFO:test_main_page:Test has finished!
+2024-01-27 16:11:33,922:INFO:test_main_page:------------------------------------
+2024-01-27 16:11:33,923:INFO:test_main_page:Test has started!
+2024-01-27 16:11:33,926:INFO:test_main_page:Opening Main page!
+2024-01-27 16:11:47,443:INFO:test_main_page:Entering the form data!
+2024-01-27 16:12:23,746:INFO:test_main_page:Form data is submitted!
+2024-01-27 16:12:30,869:INFO:test_main_page:Search result page is opened! Astana
+2024-01-27 16:12:43,333:INFO:test_main_page:Test has finished!
+2024-01-27 16:12:52,915:INFO:test_main_page:------------------------------------
+2024-01-27 16:12:52,915:INFO:test_main_page:Test has started!
+2024-01-27 16:12:52,916:INFO:test_main_page:Opening Main page!
+2024-01-27 16:13:06,386:INFO:test_main_page:Entering the form data!
+2024-01-27 16:13:43,221:INFO:test_main_page:Form data is submitted!
+2024-01-27 16:14:03,040:INFO:test_main_page:Test has finished!
