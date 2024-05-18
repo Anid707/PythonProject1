@@ -1,0 +1,6 @@
+[32mINFO    [0m test_main_page:test_main_page.py:30 ------------------------------------
+[32mINFO    [0m test_main_page:test_main_page.py:31 Test has started!
+[32mINFO    [0m test_main_page:test_main_page.py:49 Opening Main page!
+[32mINFO    [0m test_main_page:test_main_page.py:52 Entering the form data!
+[32mINFO    [0m test_main_page:test_main_page.py:54 Form data is submitted!
+[32mINFO    [0m test_main_page:test_main_page.py:36 Test has finished!
