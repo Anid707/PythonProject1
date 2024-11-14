@@ -1,0 +1,1 @@
+{"id":777557,"category":{"id":2,"name":"Dogs"},"name":"Bibbie","photoUrls":[],"tags":[{"id":5,"name":"Red"}],"status":"available"}
